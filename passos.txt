@@ -1,0 +1,7 @@
+git config --global user.name B3ah
+git config --global user.name andradebeatriz351@gmail.com
+
+CLI - Command Line Interface
+
+Criar um projeto API
+dotnet new webapi -o Gran_ve_culos --use-controllers

@@ -1,0 +1,6 @@
+@Gran_ve_culos_HostAddress = http://localhost:5008
+
+GET {{Gran_ve_culos_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
